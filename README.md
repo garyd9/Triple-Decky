@@ -95,9 +95,9 @@ It will not be possible to install the magnetic gates on Rev C.
 
 #### **Assembling tips:**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
-  * Rev C need a bit more attention to assemble the fiklament path on the base.
-    * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
-      * Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
+  * Rev C need a bit more attention to assemble the filament path on the base.
+    * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repel each other. Insert a M3x8 SHCS screw in the adjacent hole (which will be used to attach the filament block to the sturdy bunny 2020 extrusion.)
+      * Optionally, you can use another set of magnets into the side holes if needed. In that case, the base must be installed on the 2020 extrusion before installing the magnet on the side hole of the base because the screw will be unaccessible.
     * 2. Insert the trap into the female dovetail.
       * If you use the screw trap, insert the screw at a slight angle. The 2 holes are angled by about 2°
        
